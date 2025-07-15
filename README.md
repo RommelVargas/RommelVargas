@@ -1,6 +1,6 @@
 <h2 align="left">¡Hola! 👋 Soy Rommel Vargas, estudiante de Ingeniería Química</h2>
 
-<p align="left">Apasionado por aplicar la programación y simulaciones en ingeniería química, usando herramientas como Python y DWSIM.</p>
+<p align="left">Apasionado por aplicar la programación y simulaciones en ingeniería química, usando herramientas como Python, ompython y DWSIM.</p>
 
 ### Proyectos destacados
 - [Calculadora de Procesos Químicos]: Herramienta en Python para cálculos de balances de masa y procesos sostenibles.
